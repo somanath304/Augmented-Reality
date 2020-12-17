@@ -4,3 +4,4 @@ Product Information Finder - An Android App which augments videos and pictures d
 
 VIDEO LINK - https://drive.google.com/file/d/1xm03mFVTDSpAvwD8TryHKPAQNbTFCrp3/view?usp=sharing
 
+DOWNLOAD APP  - https://drive.google.com/file/d/1PGx0d9KYOUQ3UWQCHjWewCduVSints_o/view?usp=sharing
